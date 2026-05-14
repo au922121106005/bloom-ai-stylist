@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to right, #FFE0E9, #FFF3E0);
+  color: #333333;
+  min-height: 100vh;
+}
+
+html {
+  scroll-behavior: smooth;
+}
