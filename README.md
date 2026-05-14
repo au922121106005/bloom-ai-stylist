@@ -56,7 +56,7 @@ Bloom Bouquet Shop is a complete full stack floral shopping application featurin
 
 # 💐 Bouquet Collections
 
-## ❤️ Romantic Collection
+## ❤️ Amour Collection
 
 - Rose Whisper Bouquet
 - Crimson Love Arrangement
